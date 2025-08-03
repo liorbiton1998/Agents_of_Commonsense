@@ -1,0 +1,4 @@
+Dataset: CommonsenseQA (validation set)
+Used for all experiments in the paper.
+Download from: https://huggingface.co/datasets/tau/commonsense_qa
+We used only the validation split (1221 questions).
