@@ -24,6 +24,11 @@ We use the validation set of the **CommonsenseQA** dataset, containing 1,221 mul
 Download from: [https://huggingface.co/datasets/tau/commonsense_qa](https://huggingface.co/datasets/tau/commonsense_qa)  
 (*Only the `validation` split was used in this project.*)
 
----
+## 📝 Reproducibility
 
-For any questions, please refer to the paper or contact the project authors.
+All relevant code, data, and results are included in this submission for reproducibility.
+
+We used the following model APIs during the experiments:
+- **Gemini** (via Google AI API)
+- **GPT-4o mini** (via OpenAI API)
+- **Open-source models** (e.g., Mistral, LLaMA, Phi) via **Hugging Face Transformers**
