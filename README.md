@@ -2,11 +2,11 @@
 
 This project explores single-model and multi-agent strategies for answering multiple-choice commonsense reasoning questions. The experiments are conducted using the **CommonsenseQA** benchmark.
 
-## 📄 Paper
+##  Paper
 All details and results are described in the accompanying paper:  
 **Agents_of_Commonsense.pdf**
 
-## 📁 Project Structure
+##  Project Structure
 
 - `Code/`
   - `multi_agents.py` — Multi-agent framework for collaborative reasoning
@@ -17,14 +17,14 @@ All details and results are described in the accompanying paper:
   - `commonsenseqa_source.txt` — Source description and link to dataset
 - `Agents_of_Commonsense.pdf` — Final report
 
-## 📊 Dataset
+##  Dataset
 
 We use the validation set of the **CommonsenseQA** dataset, containing 1,221 multiple-choice questions.
 
 Download from: [https://huggingface.co/datasets/tau/commonsense_qa](https://huggingface.co/datasets/tau/commonsense_qa)  
 (*Only the `validation` split was used in this project.*)
 
-## 📝 Reproducibility
+##  Reproducibility
 
 All relevant code, data, and results are included in this submission for reproducibility.
 
