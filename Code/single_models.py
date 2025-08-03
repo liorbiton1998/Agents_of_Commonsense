@@ -50,7 +50,7 @@ def format_prompt(example, style="simple"):
         raise ValueError(f"Unknown prompt style: {style}")
 
 from huggingface_hub import login
-login(token="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")
+login(token="***********")
 
 MODEL_CACHE = {}
 
